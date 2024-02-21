@@ -1,0 +1,124 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strFilmName&Flowchart_1",
+        "arrIMDBInfo&Flowchart_1",
+        "arrROTTENInfo&Flowchart_1",
+        "strUserChoice&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "open_rotten_tomatoes.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolRottenFound&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "open_imdb.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolIMDbFound&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "search_film.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolRottenFound&Sequence_10",
+        "boolIMDbFound&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strFilmName"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "save_info.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strRottenFilmstrRottenFilmScoreBoard&Sequence_11",
+        "strRottenFilmScore&Sequence_11",
+        "strRottenFilmTomatoMeter&Sequence_11",
+        "strRottenFilmPG&Sequence_11",
+        "strRottenFilmTitle&Sequence_11",
+        "boolRottenFound&Sequence_7",
+        "strIMDBFilmRate&Sequence_4",
+        "strIMDBFilmDuration&Sequence_4",
+        "strIMDBFilmPG&Sequence_4",
+        "strIMDBFilmYear&Sequence_4",
+        "strIMDBFilmTitle&Sequence_4",
+        "boolIMDbFound&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_arrRottenData",
+        "out_arrIMDBData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "print_info.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_arrIMDBData",
+        "in_arrRottenData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Film_name_user_input.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_strFilmName"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "close_browser.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolIMDbFound&Sequence_15",
+        "boolRottenFound&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "askuser.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_userChoice"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
