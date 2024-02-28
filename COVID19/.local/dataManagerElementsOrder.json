@@ -1,0 +1,46 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CORONA_HEAD&Sequence_1",
+        "CORONA_CASE_NUM&Sequence_1",
+        "COUNTRY&Sequence_1",
+        "Recovered_num&Sequence_1",
+        "Recoverd&Sequence_1",
+        "Death_num&Sequence_1",
+        "Death&Sequence_1",
+        "Extracted&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Classic.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "OUT_CLASSIC&Sequence_1",
+        "Recovered_num&Sequence_2",
+        "Death_Num&Sequence_1",
+        "Recover_Head&Sequence_1",
+        "Cases_Head&Sequence_1",
+        "Cases_num&Sequence_1",
+        "Death_Head&Sequence_1",
+        "Country&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

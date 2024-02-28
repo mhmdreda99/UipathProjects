@@ -1,0 +1,41 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Course_name&Sequence_1",
+        "filename&Sequence_1",
+        "course_seller&Sequence_1",
+        "course_price&Sequence_1",
+        "course_rate&Sequence_1",
+        "output&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Classic.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "extracted_data&Sequence_1",
+        "price&Sequence_1",
+        "Seller&Sequence_1",
+        "Rate&Sequence_1",
+        "Name&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
